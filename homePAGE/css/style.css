@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+
+.head-banner {
+    background:steelblue;
+}
+
+
+#logo {
+    display: flex;
+    justify-content: flex-end;
+}
