@@ -1,13 +1,37 @@
-h1 {
+#title {
     color: red;
 }
 
 .head-banner {
     background:steelblue;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
 }
 
+#yin-yang {
+    height: 120px;
+    width: 10%;
+}
 
-#logo {
+.nav-bar {
     display: flex;
-    justify-content: flex-end;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    justify-content: center;
+    width: 80%;
+}
+
+.nav-bar li {
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+.nav-bar li a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
 }
