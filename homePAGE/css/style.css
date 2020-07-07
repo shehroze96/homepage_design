@@ -47,6 +47,7 @@
     width: 80%;
     background: red;
     margin: 0 auto;
+<<<<<<< HEAD
     display: flex;
 }
 
@@ -64,4 +65,6 @@
     padding-left: 60px;
     padding-top: 20px;
     padding-right: 18px;
+=======
+>>>>>>> d5fc7effb79d28d83cd87e3a21fbec5bbee965cc
 }
